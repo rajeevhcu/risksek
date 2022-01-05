@@ -13,11 +13,7 @@ assignment
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+To get the github organization
 ### Built With
 
 * [Python](https://www.python.org/)
