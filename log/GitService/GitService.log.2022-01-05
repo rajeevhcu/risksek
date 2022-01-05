@@ -1,0 +1,192 @@
+2022-01-05 00:23:10,091 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:23:10,091 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:23:10,091 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:23:10,091 - GitService - ERROR - GitOrganization: get_org_list'NoneType' object is not subscriptable
+2022-01-05 00:25:12,148 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:25:12,148 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:25:12,149 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:25:12,149 - GitService - ERROR - GitOrganization: get_org_list'NoneType' object is not subscriptable
+2022-01-05 00:25:42,582 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:25:42,582 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:25:42,582 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:25:42,582 - GitService - ERROR - GitOrganization: get_org_list'NoneType' object is not subscriptable
+2022-01-05 00:25:45,558 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:25:45,559 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:25:45,559 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:25:45,559 - GitService - ERROR - GitOrganization: get_org_list'NoneType' object is not subscriptable
+2022-01-05 00:26:13,386 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:26:13,386 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:26:13,386 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:26:13,386 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 00:26:13,388 - GitService - ERROR - GitOrganization: get_org_listNo module named 'pymysql'
+2022-01-05 00:26:15,139 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:26:15,139 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:26:15,139 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:26:15,139 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 00:26:15,140 - GitService - ERROR - GitOrganization: get_org_listNo module named 'pymysql'
+2022-01-05 00:26:42,587 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:26:42,587 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:26:42,587 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:26:42,587 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 00:26:42,589 - GitService - ERROR - GitOrganization: get_org_listNo module named 'pymysql'
+2022-01-05 00:27:02,451 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:27:02,451 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:27:02,451 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:27:02,451 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 00:27:02,454 - GitService - ERROR - GitOrganization: get_org_listNo module named 'pymysql'
+2022-01-05 00:28:17,505 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:28:17,505 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:28:17,505 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:28:17,505 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 00:28:17,695 - GitService - ERROR - GitOrganization: get_org_list(pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1?port=3306' ([Errno -2] Name or service not known)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2022-01-05 00:42:15,053 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:42:15,053 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:42:15,053 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:42:15,053 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 00:42:15,309 - GitService - ERROR - GitOrganization: get_org_list(pymysql.err.OperationalError) (1049, "Unknown database 'git_service'")
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2022-01-05 00:43:04,980 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 00:43:04,980 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 00:43:04,980 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 00:43:04,980 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:00:41,589 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:00:41,589 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:00:41,589 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:00:41,589 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:00:41,590 - GitService - ERROR - GitOrganization: get_org_listmust be str, not int
+2022-01-05 01:01:42,230 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:01:42,230 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:01:42,230 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:01:42,230 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:01:42,231 - GitService - ERROR - GitOrganization: get_org_list'str' object has no attribute 'items'
+2022-01-05 01:03:13,588 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:03:13,588 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:03:13,588 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:03:13,588 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:03:13,591 - GitService - ERROR - GitOrganization: get_org_list'str' object has no attribute 'items'
+2022-01-05 01:15:07,941 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:15:07,941 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:15:07,941 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:15:07,941 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:15:07,944 - GitService - ERROR - GitOrganization: get_org_list'str' object has no attribute 'items'
+2022-01-05 01:15:35,908 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:15:35,908 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:15:35,908 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:15:35,908 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:15:35,911 - GitService - ERROR - GitOrganization: get_org_list'str' object has no attribute 'items'
+2022-01-05 01:15:57,846 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:15:57,847 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:15:57,847 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:15:57,847 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:18:15,724 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:18:15,724 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:18:15,724 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:18:15,724 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:19:09,883 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:19:09,884 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:19:09,884 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:19:09,884 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:19:36,502 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:19:36,502 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:19:36,502 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:19:36,502 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:19:58,639 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:19:58,639 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:19:58,639 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:19:58,639 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:20:48,391 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:20:48,391 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:20:48,391 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:20:48,391 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:21:14,578 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:21:14,579 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:21:14,579 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:21:14,579 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:21:31,444 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:21:31,444 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:21:31,444 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:21:31,444 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:22:24,738 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:22:24,738 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:22:24,738 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:22:24,738 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:22:54,622 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:22:54,622 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:22:54,622 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:22:54,622 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:23:55,931 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:23:55,931 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:23:55,932 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:23:55,932 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:33:37,576 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:33:37,577 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:33:37,577 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:33:37,577 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:33:50,797 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:33:50,797 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:33:50,797 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:33:50,798 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:34:11,428 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:34:11,428 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:34:11,428 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:34:11,428 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:37:22,811 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:37:22,811 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:37:22,811 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:37:22,811 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:39:13,326 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:39:13,326 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:39:13,326 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:39:13,326 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:39:28,341 - GitService - ERROR - GitOrganization: get_org_listHTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /organizations?per_page=25&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9cc0b2f4e0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+2022-01-05 01:39:36,412 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:39:36,412 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:39:36,412 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:39:36,413 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:47:16,451 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:47:16,451 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 01:47:16,452 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:47:16,452 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 01:48:12,066 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:48:12,066 - GitService - INFO - GitOrganization: GET: page_number: 2548 | page_size: 24
+2022-01-05 01:48:12,066 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:48:12,066 - GitService - INFO - page_number: 2548 | page_size: 24
+2022-01-05 01:48:50,869 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:48:50,870 - GitService - INFO - GitOrganization: GET: page_number: 2548 | page_size: 24
+2022-01-05 01:48:50,870 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:48:50,870 - GitService - INFO - page_number: 2548 | page_size: 24
+2022-01-05 01:49:03,294 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:49:03,294 - GitService - INFO - GitOrganization: GET: page_number: 5073 | page_size: 24
+2022-01-05 01:49:03,294 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:49:03,294 - GitService - INFO - page_number: 5073 | page_size: 24
+2022-01-05 01:49:17,878 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 01:49:17,878 - GitService - INFO - GitOrganization: GET: page_number: 6727 | page_size: 24
+2022-01-05 01:49:17,878 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 01:49:17,878 - GitService - INFO - page_number: 6727 | page_size: 24
+2022-01-05 02:02:01,736 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 02:02:01,736 - GitService - INFO - GitOrganization: GET: page_number: 6727 | page_size: 24
+2022-01-05 02:02:01,736 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 02:02:01,736 - GitService - INFO - page_number: 6727 | page_size: 24
+2022-01-05 02:02:01,736 - GitService - ERROR - GitOrganization: get_org_listObject of type 'set' is not JSON serializable
+2022-01-05 02:02:41,711 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 02:02:41,711 - GitService - INFO - GitOrganization: GET: page_number: 6727 | page_size: 24
+2022-01-05 02:02:41,711 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 02:02:41,711 - GitService - INFO - page_number: 6727 | page_size: 24
+2022-01-05 02:02:43,233 - GitService - INFO - Request param saved in db
+2022-01-05 02:02:43,234 - GitService - INFO - GitOrganization: url: https://api.github.com/organizations?per_page=24&since=6727
+2022-01-05 02:02:44,053 - GitService - INFO - GitOrganization: response status_code: 200
+2022-01-05 02:06:04,379 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 02:06:04,379 - GitService - INFO - GitOrganization: GET: page_number: None | page_size: None
+2022-01-05 02:06:04,379 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 02:06:04,379 - GitService - INFO - page_number: 1 | page_size: 25
+2022-01-05 02:06:04,975 - GitService - INFO - Request param saved in db
+2022-01-05 02:06:04,975 - GitService - INFO - GitOrganization: url: https://api.github.com/organizations?per_page=25&since=1
+2022-01-05 02:06:06,283 - GitService - INFO - GitOrganization: response status_code: 200
+2022-01-05 02:06:58,671 - GitService - INFO - Entry into GitOrganization: GET
+2022-01-05 02:06:58,671 - GitService - INFO - GitOrganization: GET: page_number: 2548 | page_size: None
+2022-01-05 02:06:58,672 - GitService - INFO - GitOrganization: Entry into get_org_list
+2022-01-05 02:06:58,672 - GitService - INFO - page_number: 2548 | page_size: 25
+2022-01-05 02:06:59,048 - GitService - INFO - Request param saved in db
+2022-01-05 02:06:59,048 - GitService - INFO - GitOrganization: url: https://api.github.com/organizations?per_page=25&since=2548
+2022-01-05 02:06:59,446 - GitService - INFO - GitOrganization: response status_code: 200

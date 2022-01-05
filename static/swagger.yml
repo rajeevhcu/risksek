@@ -1,0 +1,36 @@
+openapi: 3.0.0
+info:
+  title: Atom API
+  description: Swagger UI for ATOM API'S.
+  version: 1.0.0
+servers:
+  - url: http://127.0.0.1:5000
+    description: Internal staging server for testing
+
+paths:
+  /getOrganizations:
+    get:
+      summary: Get githug organization list.
+      tags:
+        - Organization API
+      parameters:
+        - name: page_size
+          in: query
+          required: true
+          description: page size.
+          schema:
+            type: integer
+            format: int64
+            minimum: 1
+        - name: page_number
+          in: query
+          required: true
+          description: page number.
+          schema:
+            type: integer
+            format: int64
+            minimum: 1
+      responses:
+        '200': # status code
+          description: OK.
+
